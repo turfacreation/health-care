@@ -320,7 +320,7 @@ header {
 
 /* *footer part */
 .footer-wrapper {
-  justify-content: space-evenly;
+  justify-content: space-between;
   gap: 10px;
   flex-wrap: wrap;
 }
